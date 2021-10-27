@@ -3,4 +3,4 @@
 
 🧑‍🎓Research on NLP
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=flydzy)]()
+![flydzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=flydzy&show_icons=true&theme=radical)
